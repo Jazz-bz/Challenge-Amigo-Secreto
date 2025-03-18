@@ -1,6 +1,7 @@
 🎁 Amigo Secreto
 
 Amigo Secreto es una aplicación web interactiva que permite a los usuarios organizar un sorteo divertido y aleatorio. 
+
 🚀 Funcionalidades
 
 ✅ Agregar nombres: Escribe el nombre de un amigo en un campo de texto y agrégalo a la lista visible con el botón "Adicionar".
